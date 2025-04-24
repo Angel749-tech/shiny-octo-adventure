@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Timers;
 
@@ -13,7 +14,7 @@ namespace SEMANA4
         static void Main(string[] args)
         {
 
-            ejercicio7();
+            ejercicio14();
             Console.ReadKey();
 
         }
@@ -429,6 +430,102 @@ namespace SEMANA4
             Console.WriteLine($"El sueldo de un vendedor es S/. {sueldo}, la comisión de sus ventas es S/. {comisión} y su sueldo neto calculado es: {sueldofinal}");
 
         }
+
+        static void ejercicio11()
+        {
+            Console.Write("Ingrese sueldo base: ");
+            double sueldo = double.Parse(Console.ReadLine());
+            double maria = (sueldo * 0.95) - 25;
+            double juan = (sueldo * 1.23) + 72;
+            double patricio = (sueldo * 1.85) - 56;
+            Console.WriteLine();
+            Console.WriteLine($"El sueldo de maría: {maria:F2}");
+            Console.WriteLine($"El sueldo de juan: {juan:F2}");
+            Console.WriteLine($"El sueldo de patricio: {patricio:F2}");
+            Console.WriteLine($"Suma de sueldos es: {maria + juan + patricio:F2}");
+
+        }
+        static void ejercicio12()
+        {
+
+            Console.WriteLine("Ingrese un año: ");
+            int año = int.Parse(Console.ReadLine());
+            Console.ReadLine();
+
+            if (año % 4 == 0 && año % 100 != 0 | (año % 400 == 0))
+            {
+                Console.WriteLine("Es un año bisiesto");
+            }
+            Console.WriteLine("No es un año bisiesto");
+        }
+
+        // Desarrolla un programa usando switch que permita al usuario ingresar un
+        // monto en soles peruanos(PEN) y seleccionar a qué moneda desea convertir
+        // 1: Dólares(USD) - 1 USD = 3.75 PEN
+        // Opción 2: Euros(EUR) - 1 EUR = 4.05 PEN
+
+        static void ejercicio13()
+        {
+            double monto, moneda;
+            Console.WriteLine("Ingrese un monto en soles peruanos");
+            monto = double.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese una opción: Dolares (1) - Euros (2)");
+            moneda = double.Parse(Console.ReadLine());
+
+            switch (moneda)
+            {
+                case 1:
+
+                    Console.WriteLine($"USD: {(monto / 3.75):F2}");
+
+                    break;
+
+                case 2:
+
+                    Console.WriteLine($"EUR: {(monto / 4.05):F2}");
+
+                    break;
+                default: Console.WriteLine("Opción inválida, por favor, seleccione una de las opciones, gracias...");
+                    break;
+
+            }
+
+        }
+
+        static void ejercicio14()
+        {
+            Console.WriteLine("Bienvenido al cálculo de áreas");
+            Console.WriteLine("\n1. Cuadrado \n2. Rectángulo\n3. Triángulo\n4. Círculo");
+            Console.WriteLine("\nIngrese una opción");
+            int opción = int.Parse(Console.ReadLine());
+
+
+            switch (opción)
+            {
+                case 1:
+
+
+
+
+                    break;
+                case 2:
+
+
+
+                    break;
+                case 3:
+
+
+
+                    break;
+                case 4:
+
+
+                    break;
+            }
+
+        }
+
 
     }
 }

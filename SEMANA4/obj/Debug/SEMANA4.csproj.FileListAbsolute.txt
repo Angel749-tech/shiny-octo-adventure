@@ -5,3 +5,10 @@ C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos-de-a
 C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos-de-algoritmos-PRACTICA\FUNDAMENTOS DE ALGORTIMOS PRACTICA\SEMANA4\obj\Debug\SEMANA4.csproj.CoreCompileInputs.cache
 C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos-de-algoritmos-PRACTICA\FUNDAMENTOS DE ALGORTIMOS PRACTICA\SEMANA4\obj\Debug\SEMANA4.exe
 C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos-de-algoritmos-PRACTICA\FUNDAMENTOS DE ALGORTIMOS PRACTICA\SEMANA4\obj\Debug\SEMANA4.pdb
+C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\bin\Debug\SEMANA4.exe.config
+C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\bin\Debug\SEMANA4.exe
+C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\bin\Debug\SEMANA4.pdb
+C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.exe
+C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.pdb
