@@ -504,7 +504,7 @@ namespace SEMANA4
             {
                 case 1:
 
-
+                    double cuadrado=Console.WriteLine($"")
 
 
                     break;
