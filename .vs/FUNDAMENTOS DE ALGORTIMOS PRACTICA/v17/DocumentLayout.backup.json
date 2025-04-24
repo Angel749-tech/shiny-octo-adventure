@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos-de-algoritmos-PRACTICA\\FUNDAMENTOS DE ALGORTIMOS PRACTICA\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\clone\\shiny-octo-adventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48376FC0-1E9E-4B67-93E3-5E43E9531B2A}|SEMANA4\\SEMANA4.csproj|c:\\users\\angel\\desktop\\ciclo 2025 - 1\\fundamentos de algoritmos\\fundamentos-de-algoritmos-practica\\fundamentos de algortimos practica\\semana4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48376FC0-1E9E-4B67-93E3-5E43E9531B2A}|SEMANA4\\SEMANA4.csproj|c:\\users\\upn\\desktop\\clone\\shiny-octo-adventure\\semana4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48376FC0-1E9E-4B67-93E3-5E43E9531B2A}|SEMANA4\\SEMANA4.csproj|solutionrelative:semana4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589D72D3-672B-4F8B-BA3D-5D0ECF7A42BD}|SEMANA3\\SEMANA3.csproj|C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos-de-algoritmos-PRACTICA\\FUNDAMENTOS DE ALGORTIMOS PRACTICA\\semana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{589D72D3-672B-4F8B-BA3D-5D0ECF7A42BD}|SEMANA3\\SEMANA3.csproj|C:\\Users\\UPN\\Desktop\\clone\\shiny-octo-adventure\\semana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{589D72D3-672B-4F8B-BA3D-5D0ECF7A42BD}|SEMANA3\\SEMANA3.csproj|solutionrelative:semana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos-de-algoritmos-PRACTICA\\FUNDAMENTOS DE ALGORTIMOS PRACTICA\\SEMANA4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\clone\\shiny-octo-adventure\\SEMANA4\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA4\\Program.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos-de-algoritmos-PRACTICA\\FUNDAMENTOS DE ALGORTIMOS PRACTICA\\SEMANA4\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\clone\\shiny-octo-adventure\\SEMANA4\\Program.cs",
               "RelativeToolTip": "SEMANA4\\Program.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAtwNcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAQwLEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T18:29:20.852Z",
               "EditorCaption": ""
@@ -37,14 +41,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos-de-algoritmos-PRACTICA\\FUNDAMENTOS DE ALGORTIMOS PRACTICA\\SEMANA3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\clone\\shiny-octo-adventure\\SEMANA3\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA3\\Program.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos-de-algoritmos-PRACTICA\\FUNDAMENTOS DE ALGORTIMOS PRACTICA\\SEMANA3\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\clone\\shiny-octo-adventure\\SEMANA3\\Program.cs",
               "RelativeToolTip": "SEMANA3\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T08:45:21.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T08:45:21.225Z"
             }
           ]
         }
