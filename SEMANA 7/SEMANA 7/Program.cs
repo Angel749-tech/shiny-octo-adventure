@@ -128,9 +128,25 @@ namespace SEMANA_7
 
         static void ejercicio6()
         {
+            int i, x, contadordiv=0;
+            Console.WriteLine("Ingresar un número para hallar sus divisores (entero)");
+            i = int.Parse(Console.ReadLine());
 
+            x = 1;
+            Console.WriteLine("Lista de pares: ");
 
+            while (x <= i)
+            {
+                if (i % x == 0)
+                {
 
+                    Console.WriteLine(x);
+                    contadordiv++;
+                }
+                x++;
+
+            }
+            Console.WriteLine("La cantidad de divisores es: " + contadordiv);
         }
     }
 }
