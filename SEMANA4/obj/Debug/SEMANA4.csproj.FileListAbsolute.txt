@@ -12,3 +12,10 @@ C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.csproj
 C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.exe
 C:\Users\UPN\Desktop\clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.pdb
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA4\bin\Debug\SEMANA4.exe.config
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA4\bin\Debug\SEMANA4.exe
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA4\bin\Debug\SEMANA4.pdb
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.exe
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA4\obj\Debug\SEMANA4.pdb

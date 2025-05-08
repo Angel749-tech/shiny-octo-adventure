@@ -14,7 +14,7 @@ namespace SEMANA4
         static void Main(string[] args)
         {
 
-            ejercicio14();
+            ejercicio1();
             Console.ReadKey();
 
         }
@@ -492,39 +492,7 @@ namespace SEMANA4
 
         }
 
-        static void ejercicio14()
-        {
-            Console.WriteLine("Bienvenido al cálculo de áreas");
-            Console.WriteLine("\n1. Cuadrado \n2. Rectángulo\n3. Triángulo\n4. Círculo");
-            Console.WriteLine("\nIngrese una opción");
-            int opción = int.Parse(Console.ReadLine());
 
-
-            switch (opción)
-            {
-                case 1:
-
-                    double cuadrado=Console.WriteLine($"")
-
-
-                    break;
-                case 2:
-
-
-
-                    break;
-                case 3:
-
-
-
-                    break;
-                case 4:
-
-
-                    break;
-            }
-
-        }
 
 
     }

@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 7\SEMANA 7\bin\Debug\SEMANA 7.exe.config
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 7\SEMANA 7\bin\Debug\SEMANA 7.exe
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 7\SEMANA 7\bin\Debug\SEMANA 7.pdb
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 7\SEMANA 7\obj\Debug\SEMANA 7.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 7\SEMANA 7\obj\Debug\SEMANA 7.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 7\SEMANA 7\obj\Debug\SEMANA 7.exe
+C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 7\SEMANA 7\obj\Debug\SEMANA 7.pdb
