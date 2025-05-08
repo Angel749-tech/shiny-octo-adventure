@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D82756AC-49FE-4DA1-A9E5-0DD062532A9D}|SEMANA 6\\SEMANA 6.csproj|c:\\users\\upn\\desktop\\fa clone\\shiny-octo-adventure\\semana 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82756AC-49FE-4DA1-A9E5-0DD062532A9D}|SEMANA 6\\SEMANA 6.csproj|solutionrelative:semana 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{772769D3-CC21-4B88-B448-E775CF0E6389}|SEMANA 7\\SEMANA 7\\SEMANA 7.csproj|c:\\users\\upn\\desktop\\fa clone\\shiny-octo-adventure\\semana 7\\semana 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{772769D3-CC21-4B88-B448-E775CF0E6389}|SEMANA 7\\SEMANA 7\\SEMANA 7.csproj|solutionrelative:semana 7\\semana 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 6\\Program.cs",
+              "RelativeDocumentMoniker": "SEMANA 6\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 6\\Program.cs",
+              "RelativeToolTip": "SEMANA 6\\Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAYwLsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:02:03.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 7\\SEMANA 7\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA 7\\SEMANA 7\\Program.cs",
               "ToolTip": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 7\\SEMANA 7\\Program.cs",
               "RelativeToolTip": "SEMANA 7\\SEMANA 7\\Program.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAYwJIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwKAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T12:45:59.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA4\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA4\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA3\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA3\\Program.cs",

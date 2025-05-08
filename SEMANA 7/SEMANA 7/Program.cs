@@ -11,7 +11,7 @@ namespace SEMANA_7
     {
         static void Main(string[] args)
         {
-            ejercicio6();
+            ejercicio11();
             Console.ReadKey();
         }
 
@@ -147,6 +147,19 @@ namespace SEMANA_7
 
             }
             Console.WriteLine("La cantidad de divisores es: " + contadordiv);
+        }
+
+        static void ejercicio11()
+        {
+
+            int num;
+
+            do
+            {
+                Console.WriteLine("Ingresar un número: ");
+                num = int.Parse(Console.ReadLine());
+            } while (num >= 0);
+
         }
     }
 }
