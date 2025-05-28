@@ -1,0 +1,6 @@
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Biblioteca PRACTICA\bin\Debug\Biblioteca PRACTICA.dll
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Biblioteca PRACTICA\bin\Debug\Biblioteca PRACTICA.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Biblioteca PRACTICA\obj\Debug\Biblioteca_PRACTICA.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Biblioteca PRACTICA\obj\Debug\Biblioteca_PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Biblioteca PRACTICA\obj\Debug\Biblioteca PRACTICA.dll
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Biblioteca PRACTICA\obj\Debug\Biblioteca PRACTICA.pdb

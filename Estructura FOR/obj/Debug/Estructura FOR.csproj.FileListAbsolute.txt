@@ -1,0 +1,7 @@
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Estructura FOR\bin\Debug\Estructura FOR.exe.config
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Estructura FOR\bin\Debug\Estructura FOR.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Estructura FOR\bin\Debug\Estructura FOR.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Estructura FOR\obj\Debug\Estructura FOR.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Estructura FOR\obj\Debug\Estructura FOR.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Estructura FOR\obj\Debug\Estructura FOR.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Estructura FOR\obj\Debug\Estructura FOR.pdb

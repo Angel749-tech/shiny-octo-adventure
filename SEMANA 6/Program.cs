@@ -168,15 +168,16 @@ namespace SEMANA_6
         {
 
             string c, cc; 
-            int i = 0;
+            int i = 1;
 
             Console.WriteLine("Ingresar una contraseña");
             c = Console.ReadLine();
-            Console.WriteLine("Validar contraseña(tres intentos máximo)");
-            cc = Console.ReadLine();
+
 
             while (i <= 3)
             {
+                Console.WriteLine($"Validar contraseña({i}, al superar el 3 se bloquea)");
+                cc = Console.ReadLine();
                 if (cc == c)
                 {
                     Console.WriteLine("Acceso aceptado");
@@ -184,11 +185,17 @@ namespace SEMANA_6
                 }
                 else
                 {
-                    i++;
-                    if (i > 0) Console.WriteLine("Acceso denegado");
-                    else Console.WriteLine("\n Acceso bloqueado, has superado el límite de intentos posibles");
+                    if (i == 3)
+                    {
+                        Console.WriteLine("Límite de intentos excedido...");
+                        return;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Intente nuevamente");
+                    }
                 }
-
+                i++;
 
             }
      

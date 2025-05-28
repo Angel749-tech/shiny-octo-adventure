@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\",
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D82756AC-49FE-4DA1-A9E5-0DD062532A9D}|SEMANA 6\\SEMANA 6.csproj|c:\\users\\upn\\desktop\\fa clone\\shiny-octo-adventure\\semana 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5C6D44D-E11C-4DA5-99C9-9D0A2DBD9D66}|SEMANA 8 A. U.\\SEMANA 8 A. U.csproj|c:\\users\\angel\\desktop\\ciclo 2025 - 1\\fundamentos de algoritmos\\fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\semana 8 a. u.\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C6D44D-E11C-4DA5-99C9-9D0A2DBD9D66}|SEMANA 8 A. U.\\SEMANA 8 A. U.csproj|solutionrelative:semana 8 a. u.\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E2392D-B63C-4085-9B4D-EE895210D0FF}|ESTRUCTURA DO WHILE\\ESTRUCTURA DO WHILE.csproj|c:\\users\\angel\\desktop\\ciclo 2025 - 1\\fundamentos de algoritmos\\fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\estructura do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E2392D-B63C-4085-9B4D-EE895210D0FF}|ESTRUCTURA DO WHILE\\ESTRUCTURA DO WHILE.csproj|solutionrelative:estructura do while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9257126C-513C-4BB5-B074-1AB1902B5713}|Estructura FOR\\Estructura FOR.csproj|c:\\users\\angel\\desktop\\ciclo 2025 - 1\\fundamentos de algoritmos\\fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\estructura for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9257126C-513C-4BB5-B074-1AB1902B5713}|Estructura FOR\\Estructura FOR.csproj|solutionrelative:estructura for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82756AC-49FE-4DA1-A9E5-0DD062532A9D}|SEMANA 6\\SEMANA 6.csproj|c:\\users\\angel\\desktop\\ciclo 2025 - 1\\fundamentos de algoritmos\\fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\semana 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82756AC-49FE-4DA1-A9E5-0DD062532A9D}|SEMANA 6\\SEMANA 6.csproj|solutionrelative:semana 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{772769D3-CC21-4B88-B448-E775CF0E6389}|SEMANA 7\\SEMANA 7\\SEMANA 7.csproj|c:\\users\\upn\\desktop\\fa clone\\shiny-octo-adventure\\semana 7\\semana 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{772769D3-CC21-4B88-B448-E775CF0E6389}|SEMANA 7\\SEMANA 7\\SEMANA 7.csproj|C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\semana 7\\semana 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{772769D3-CC21-4B88-B448-E775CF0E6389}|SEMANA 7\\SEMANA 7\\SEMANA 7.csproj|solutionrelative:semana 7\\semana 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589D72D3-672B-4F8B-BA3D-5D0ECF7A42BD}|SEMANA3\\SEMANA3.csproj|C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\semana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{589D72D3-672B-4F8B-BA3D-5D0ECF7A42BD}|SEMANA3\\SEMANA3.csproj|C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\semana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{589D72D3-672B-4F8B-BA3D-5D0ECF7A42BD}|SEMANA3\\SEMANA3.csproj|solutionrelative:semana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48376FC0-1E9E-4B67-93E3-5E43E9531B2A}|SEMANA4\\SEMANA4.csproj|C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\semana4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48376FC0-1E9E-4B67-93E3-5E43E9531B2A}|SEMANA4\\SEMANA4.csproj|C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\semana4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48376FC0-1E9E-4B67-93E3-5E43E9531B2A}|SEMANA4\\SEMANA4.csproj|solutionrelative:semana4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,45 +38,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 6\\Program.cs",
-              "RelativeDocumentMoniker": "SEMANA 6\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 6\\Program.cs",
-              "RelativeToolTip": "SEMANA 6\\Program.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAYwLsAAAAbAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA 8 A. U\\Program.cs",
+              "RelativeDocumentMoniker": "SEMANA 8 A. U\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA 8 A. U\\Program.cs",
+              "RelativeToolTip": "SEMANA 8 A. U\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:02:03.778Z",
+              "WhenOpened": "2025-05-16T22:33:03.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 7\\SEMANA 7\\Program.cs",
-              "RelativeDocumentMoniker": "SEMANA 7\\SEMANA 7\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA 7\\SEMANA 7\\Program.cs",
-              "RelativeToolTip": "SEMANA 7\\SEMANA 7\\Program.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAuwKAAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\ESTRUCTURA DO WHILE\\Program.cs",
+              "RelativeDocumentMoniker": "ESTRUCTURA DO WHILE\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\ESTRUCTURA DO WHILE\\Program.cs",
+              "RelativeToolTip": "ESTRUCTURA DO WHILE\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwFsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T12:45:59.425Z",
+              "WhenOpened": "2025-05-16T20:13:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\Estructura FOR\\Program.cs",
+              "RelativeDocumentMoniker": "Estructura FOR\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\Estructura FOR\\Program.cs",
+              "RelativeToolTip": "Estructura FOR\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAJ4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:37:50.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA 6\\Program.cs",
+              "RelativeDocumentMoniker": "SEMANA 6\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA 6\\Program.cs",
+              "RelativeToolTip": "SEMANA 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwLIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:02:03.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA 7\\SEMANA 7\\Program.cs",
+              "RelativeDocumentMoniker": "SEMANA 7\\SEMANA 7\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA 7\\SEMANA 7\\Program.cs",
+              "RelativeToolTip": "SEMANA 7\\SEMANA 7\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwKAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:45:59.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA4\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA4\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA4\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA4\\Program.cs",
               "RelativeToolTip": "SEMANA4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA3\\Program.cs",
               "RelativeDocumentMoniker": "SEMANA3\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\fa clone\\shiny-octo-adventure\\SEMANA3\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CICLO 2025 - 1\\FUNDAMENTOS DE ALGORITMOS\\Fundamentos codigos hechos en clase-casa\\shiny-octo-adventure\\SEMANA3\\Program.cs",
               "RelativeToolTip": "SEMANA3\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

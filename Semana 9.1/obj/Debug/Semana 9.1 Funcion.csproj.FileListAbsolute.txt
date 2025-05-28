@@ -1,0 +1,7 @@
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.1\bin\Debug\Semana 9.1.exe.config
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.1\bin\Debug\Semana 9.1.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.1\bin\Debug\Semana 9.1.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.1\obj\Debug\Semana 9.1 Funcion.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.1\obj\Debug\Semana 9.1 Funcion.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.1\obj\Debug\Semana 9.1.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.1\obj\Debug\Semana 9.1.pdb

@@ -5,3 +5,10 @@ C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.c
 C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.exe
 C:\Users\UPN\Desktop\fa clone\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\SEMANA 6\bin\Debug\SEMANA 6.exe.config
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\SEMANA 6\bin\Debug\SEMANA 6.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\SEMANA 6\bin\Debug\SEMANA 6.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\SEMANA 6\obj\Debug\SEMANA 6.pdb

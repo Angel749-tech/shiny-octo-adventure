@@ -1,0 +1,8 @@
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\bin\Debug\Semana 9.3 EJERCICIO.exe.config
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\bin\Debug\Semana 9.3 EJERCICIO.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\bin\Debug\Semana 9.3 EJERCICIO.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJERCICIO.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJERCICIO.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJERCICIO.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJERCICIO.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJERCICIO.exe.config

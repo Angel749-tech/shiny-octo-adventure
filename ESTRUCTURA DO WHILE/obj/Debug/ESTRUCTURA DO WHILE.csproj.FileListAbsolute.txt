@@ -1,0 +1,8 @@
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\bin\Debug\ESTRUCTURA DO WHILE.exe.config
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\bin\Debug\ESTRUCTURA DO WHILE.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\bin\Debug\ESTRUCTURA DO WHILE.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\obj\Debug\ESTRUCTURA DO WHILE.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\obj\Debug\ESTRUCTURA DO WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\obj\Debug\ESTRUCTURA DO WHILE.exe
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\obj\Debug\ESTRUCTURA DO WHILE.pdb
+C:\Users\Angel\Desktop\CICLO 2025 - 1\FUNDAMENTOS DE ALGORITMOS\Fundamentos codigos hechos en clase-casa\shiny-octo-adventure\ESTRUCTURA DO WHILE\obj\Debug\ESTRUCTURA DO WHILE.exe.config
