@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 9.3 EJERCICIO\bin\Debug\Semana 9.3 EJERCICIO.exe.config
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 9.3 EJERCICIO\bin\Debug\Semana 9.3 EJERCICIO.exe
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 9.3 EJERCICIO\bin\Debug\Semana 9.3 EJERCICIO.pdb
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJ1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJ1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJERCICIO.exe
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 9.3 EJERCICIO\obj\Debug\Semana 9.3 EJERCICIO.pdb

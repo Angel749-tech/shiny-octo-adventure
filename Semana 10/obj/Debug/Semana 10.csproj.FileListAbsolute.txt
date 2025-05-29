@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 10\bin\Debug\Semana 10.exe.config
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 10\bin\Debug\Semana 10.exe
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 10\bin\Debug\Semana 10.pdb
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 10\obj\Debug\Semana 10.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 10\obj\Debug\Semana 10.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 10\obj\Debug\Semana 10.exe
+C:\Users\UPN\Desktop\29-05-25\shiny-octo-adventure\Semana 10\obj\Debug\Semana 10.pdb
