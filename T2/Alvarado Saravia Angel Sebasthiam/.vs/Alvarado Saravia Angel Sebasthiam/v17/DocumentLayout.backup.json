@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\EXAMEN\\Alvarado Saravia Angel Sebasthiam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B095032-24CE-4244-BEC2-C5475FA73F38}|..\\AlvaradoSaravia_02\\AlvaradoSaravia_02.csproj|c:\\users\\upn\\desktop\\examen\\alvaradosaravia_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838FBDC9-88BB-4097-99E7-DD2BB7CBF3C5}|Alvarado Saravia Angel Sebasthiam.csproj|C:\\Users\\UPN\\Desktop\\EXAMEN\\Alvarado Saravia Angel Sebasthiam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838FBDC9-88BB-4097-99E7-DD2BB7CBF3C5}|Alvarado Saravia Angel Sebasthiam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\EXAMEN\\AlvaradoSaravia_02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AlvaradoSaravia_02\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\EXAMEN\\AlvaradoSaravia_02\\Program.cs",
+              "RelativeToolTip": "..\\AlvaradoSaravia_02\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:38:19.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\EXAMEN\\Alvarado Saravia Angel Sebasthiam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\EXAMEN\\Alvarado Saravia Angel Sebasthiam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:37:32.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\EXAMEN\Alvarado Saravia Angel Sebasthiam\bin\Debug\Alvarado Saravia Angel Sebasthiam.exe.config
+C:\Users\UPN\Desktop\EXAMEN\Alvarado Saravia Angel Sebasthiam\bin\Debug\Alvarado Saravia Angel Sebasthiam.exe
+C:\Users\UPN\Desktop\EXAMEN\Alvarado Saravia Angel Sebasthiam\bin\Debug\Alvarado Saravia Angel Sebasthiam.pdb
+C:\Users\UPN\Desktop\EXAMEN\Alvarado Saravia Angel Sebasthiam\obj\Debug\Alvarado Saravia Angel Sebasthiam.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\EXAMEN\Alvarado Saravia Angel Sebasthiam\obj\Debug\Alvarado Saravia Angel Sebasthiam.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\EXAMEN\Alvarado Saravia Angel Sebasthiam\obj\Debug\Alvarado Saravia Angel Sebasthiam.exe
+C:\Users\UPN\Desktop\EXAMEN\Alvarado Saravia Angel Sebasthiam\obj\Debug\Alvarado Saravia Angel Sebasthiam.pdb
