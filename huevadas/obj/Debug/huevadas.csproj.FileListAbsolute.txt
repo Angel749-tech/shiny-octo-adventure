@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\huevadas\bin\Debug\huevadas.exe.config
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\huevadas\bin\Debug\huevadas.exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\huevadas\bin\Debug\huevadas.pdb
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\huevadas\obj\Debug\huevadas.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\huevadas\obj\Debug\huevadas.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\huevadas\obj\Debug\huevadas.exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\huevadas\obj\Debug\huevadas.pdb

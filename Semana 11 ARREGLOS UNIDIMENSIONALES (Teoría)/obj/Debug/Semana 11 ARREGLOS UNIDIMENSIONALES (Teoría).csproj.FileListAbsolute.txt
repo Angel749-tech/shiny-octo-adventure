@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría)\bin\Debug\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría).exe.config
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría)\bin\Debug\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría).exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría)\bin\Debug\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría).pdb
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría)\obj\Debug\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría).csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría)\obj\Debug\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría).csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría)\obj\Debug\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría).exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría)\obj\Debug\Semana 11 ARREGLOS UNIDIMENSIONALES (Teoría).pdb

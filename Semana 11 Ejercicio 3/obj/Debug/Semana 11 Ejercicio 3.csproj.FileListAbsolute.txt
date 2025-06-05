@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 Ejercicio 3\bin\Debug\Semana 11 Ejercicio 3.exe.config
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 Ejercicio 3\bin\Debug\Semana 11 Ejercicio 3.exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 Ejercicio 3\bin\Debug\Semana 11 Ejercicio 3.pdb
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 Ejercicio 3\obj\Debug\Semana 11 Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 Ejercicio 3\obj\Debug\Semana 11 Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 Ejercicio 3\obj\Debug\Semana 11 Ejercicio 3.exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 Ejercicio 3\obj\Debug\Semana 11 Ejercicio 3.pdb
