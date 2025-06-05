@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 PRACTICA\bin\Debug\Semana 11 PRACTICA.exe.config
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 PRACTICA\bin\Debug\Semana 11 PRACTICA.exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 PRACTICA\bin\Debug\Semana 11 PRACTICA.pdb
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 PRACTICA\obj\Debug\Semana 11 PRACTICA.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 PRACTICA\obj\Debug\Semana 11 PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 PRACTICA\obj\Debug\Semana 11 PRACTICA.exe
+C:\Users\UPN\Desktop\Semana 11 Fundamentos\shiny-octo-adventure\Semana 11 PRACTICA\obj\Debug\Semana 11 PRACTICA.pdb
