@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "huevadas", "huevadas\huevad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana 11 PRACTICA", "Semana 11 PRACTICA\Semana 11 PRACTICA.csproj", "{30D58577-2497-4681-9695-58415AA1C2A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana 12 Teoría 1", "Semana 12 Teoría 1\Semana 12 Teoría 1.csproj", "{92F75605-A382-40EF-8194-7A82DA38934A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana 12 Practica", "Semana 12 Practica\Semana 12 Practica.csproj", "{852AE467-4505-43DA-9F12-E369895A11F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{30D58577-2497-4681-9695-58415AA1C2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D58577-2497-4681-9695-58415AA1C2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D58577-2497-4681-9695-58415AA1C2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F75605-A382-40EF-8194-7A82DA38934A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F75605-A382-40EF-8194-7A82DA38934A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F75605-A382-40EF-8194-7A82DA38934A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F75605-A382-40EF-8194-7A82DA38934A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852AE467-4505-43DA-9F12-E369895A11F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852AE467-4505-43DA-9F12-E369895A11F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852AE467-4505-43DA-9F12-E369895A11F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852AE467-4505-43DA-9F12-E369895A11F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
