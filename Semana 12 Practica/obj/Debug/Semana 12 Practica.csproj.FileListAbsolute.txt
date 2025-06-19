@@ -5,3 +5,11 @@ C:\Users\UPN\Desktop\FA Semana 12\shiny-octo-adventure\Semana 12 Practica\obj\De
 C:\Users\UPN\Desktop\FA Semana 12\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\FA Semana 12\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.exe
 C:\Users\UPN\Desktop\FA Semana 12\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.pdb
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\bin\Debug\Semana 12 Practica.exe.config
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\bin\Debug\Semana 12 Practica.exe
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\bin\Debug\Semana 12 Practica.pdb
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.exe.config
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.exe
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Practica\obj\Debug\Semana 12 Practica.pdb
