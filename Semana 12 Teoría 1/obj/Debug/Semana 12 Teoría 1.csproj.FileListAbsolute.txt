@@ -13,3 +13,10 @@ C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Sem
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Semana 12 Teoría 1.csproj.CoreCompileInputs.cache
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Semana 12 Teoría 1.exe
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Semana 12 Teoría 1.pdb
+C:\Users\UPN\Desktop\F A S13\shiny-octo-adventure\Semana 12 Teoría 1\bin\Debug\Semana 12 Teoría 1.exe.config
+C:\Users\UPN\Desktop\F A S13\shiny-octo-adventure\Semana 12 Teoría 1\bin\Debug\Semana 12 Teoría 1.exe
+C:\Users\UPN\Desktop\F A S13\shiny-octo-adventure\Semana 12 Teoría 1\bin\Debug\Semana 12 Teoría 1.pdb
+C:\Users\UPN\Desktop\F A S13\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Semana 12 Teoría 1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\F A S13\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Semana 12 Teoría 1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\F A S13\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Semana 12 Teoría 1.exe
+C:\Users\UPN\Desktop\F A S13\shiny-octo-adventure\Semana 12 Teoría 1\obj\Debug\Semana 12 Teoría 1.pdb

@@ -12,7 +12,7 @@ namespace Semana_12_Teoría_1
     {
         static void Main(string[] args)
         {
-            int [] deposito = { 3700, 3200, 2300, 2200, 3500, 2100, 3900, 8000, 2500, 3100 };
+            int[] deposito = { 3700, 3200, 2300, 2200, 3500, 2100, 3900, 8000, 2500, 3100 };
             int obtenerdeposito;
             double obtenerpromedio;
 
@@ -45,10 +45,13 @@ namespace Semana_12_Teoría_1
             Reeemplazardeposito2(deposito);
             // 10# Intercambiar dos depositos de lugar
             intercambiardepositos(2, 5, deposito);
+            // 11# Genera aleatorios
+            Console.Write("Los números aleatorios generados del nuevo arreglo entre el rango 0 a 20 son los siguientes: "); generaraleatorio(deposito);
+
 
 
         }
-        static int tamanio(int [] deposito)
+        static int tamanio(int[] deposito)
         {
             int tamanio = deposito.Length;
             return tamanio;
@@ -72,7 +75,7 @@ namespace Semana_12_Teoría_1
         {
             double promedio;
             int suma = 0;
-            for (int i=0; i < deposito.Length; i++)
+            for (int i = 0; i < deposito.Length; i++)
             {
                 suma += deposito[i];
             }
@@ -84,7 +87,7 @@ namespace Semana_12_Teoría_1
         static int depositoMayor(int[] deposito)
         {
             int mayor = deposito[0];
-            for (int i=0; i < deposito.Length; i++)
+            for (int i = 0; i < deposito.Length; i++)
             {
                 if (deposito[i] > mayor)
                     mayor = deposito[i];
@@ -106,7 +109,7 @@ namespace Semana_12_Teoría_1
 
         static int cantidadMayores3000(int[] deposito)
         {
-            int mayor3k = 3000, mayor=0;
+            int mayor3k = 3000, mayor = 0;
             for (int i = 0; i < deposito.Length; i++)
             {
                 if (deposito[i] > mayor3k)
@@ -126,7 +129,7 @@ namespace Semana_12_Teoría_1
             return menor;
         }
 
-        static int posPrimerDeposito (int[] deposito)
+        static int posPrimerDeposito(int[] deposito)
         {
             for (int i = 0; i < deposito.Length; i++)
             {
@@ -140,7 +143,7 @@ namespace Semana_12_Teoría_1
         static int posUltimoDeposito(int[] deposito)
         {
             // Recorrido inverso (Desde la última posición)
-            for (int i=deposito.Length-1; i >= 0; i--)
+            for (int i = deposito.Length - 1; i >= 0; i--)
             {
                 if (deposito[i] >= 3500 && deposito[i] <= 4000)
                     return deposito[i];
@@ -157,14 +160,14 @@ namespace Semana_12_Teoría_1
             {
                 if (deposito[i] >= 2000 && deposito[i] <= 2500)
                     can++;
-                    if (can==2)
+                if (can == 2)
                     return deposito[i];
             }
 
             return -1; // Si no existe
         }
 
-        static void reemplazardeposito (int pos, int nuevodep, int[] deposito)
+        static void reemplazardeposito(int pos, int nuevodep, int[] deposito)
         {
             deposito[pos] = nuevodep;
             Console.WriteLine($"Nuevo arreglo: ");
@@ -193,7 +196,7 @@ namespace Semana_12_Teoría_1
         }
 
 
-        static void intercambiardepositos (int pos1,int pos2, int[] deposito)
+        static void intercambiardepositos(int pos1, int pos2, int[] deposito)
         {
             int s = 0;
             s = deposito[pos1];
@@ -203,6 +206,17 @@ namespace Semana_12_Teoría_1
             for (int i = 0; i < deposito.Length; i++)
                 Console.Write(deposito[i] + ",");
 
+
+        }
+
+        static void generaraleatorio(int[] deposito)
+        {
+            Random aleatorio = new Random();
+            for (int i = 0; i < deposito.Length; i++)
+            {
+                deposito[i] = aleatorio.Next(2000, 10000);
+                Console.Write(deposito [i] + ", ");
+            }
 
         }
     }

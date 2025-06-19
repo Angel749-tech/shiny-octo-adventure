@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cuadrado.cs" />
+    <Compile Include="estudiantes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectángulo.cs" />
     <Compile Include="Trapecio.cs" />
