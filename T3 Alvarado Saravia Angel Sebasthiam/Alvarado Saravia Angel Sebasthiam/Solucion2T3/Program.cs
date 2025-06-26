@@ -18,13 +18,14 @@ namespace Solucion2T3
             // Función que llena el arreglo
             lenarFunciones(arreglo);
             // Imprimir arreglo
-            Console.WriteLine("Datos del arreglo: "); imprimirfunciones(arreglo);
+            Console.WriteLine("\nDatos del arreglo: "); imprimirfunciones(arreglo);
             // Antepenúltimo múltiplo de 5
             int antepenultimo=antepenultimoquintuploFunciones(arreglo);
             Console.WriteLine("\nAntepenúltimo múltiplo de 5: " + antepenultimo);
             // Tercer número par
             int postercerpar= posiciontercernumeroparALVARADOSARAVIA(arreglo);
             Console.WriteLine("\nTercer número par: " + postercerpar);
+            Console.WriteLine("\nGAAAAAAAAAAAAAAAAA");
         }
 
         static void lenarFunciones(int[] arreglo)

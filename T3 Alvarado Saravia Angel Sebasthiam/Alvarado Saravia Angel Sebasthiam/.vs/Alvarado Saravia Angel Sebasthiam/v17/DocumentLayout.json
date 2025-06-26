@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37084EA5-035D-4F09-BC81-89F582AF9375}|Solucion2T3\\Solucion2T3.csproj|c:\\users\\angel\\desktop\\fa\\shiny-octo-adventure\\t3 alvarado saravia angel sebasthiam\\alvarado saravia angel sebasthiam\\solucion2t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37084EA5-035D-4F09-BC81-89F582AF9375}|Solucion2T3\\Solucion2T3.csproj|solutionrelative:solucion2t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C770FB18-7153-4149-9B45-36F1BC44B9AB}|AlvaradoSaravia_02\\AlvaradoSaravia_02.csproj|c:\\users\\angel\\desktop\\fa\\shiny-octo-adventure\\t3 alvarado saravia angel sebasthiam\\alvarado saravia angel sebasthiam\\alvaradosaravia_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C770FB18-7153-4149-9B45-36F1BC44B9AB}|AlvaradoSaravia_02\\AlvaradoSaravia_02.csproj|C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\alvaradosaravia_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C770FB18-7153-4149-9B45-36F1BC44B9AB}|AlvaradoSaravia_02\\AlvaradoSaravia_02.csproj|solutionrelative:alvaradosaravia_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6171D49-750B-4C16-A88B-DE71E14A300F}|Solucion1T3\\Solucion1T3.csproj|c:\\users\\angel\\desktop\\fa\\shiny-octo-adventure\\t3 alvarado saravia angel sebasthiam\\alvarado saravia angel sebasthiam\\solucion1t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6171D49-750B-4C16-A88B-DE71E14A300F}|Solucion1T3\\Solucion1T3.csproj|C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\solucion1t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6171D49-750B-4C16-A88B-DE71E14A300F}|Solucion1T3\\Solucion1T3.csproj|solutionrelative:solucion1t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7002FB5E-A2C8-421F-9D6C-697FE45E2466}|AlvaradoSaravia_01\\AlvaradoSaravia_01.csproj|C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\alvaradosaravia_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37084EA5-035D-4F09-BC81-89F582AF9375}|Solucion2T3\\Solucion2T3.csproj|c:\\users\\upn\\desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\t3 alvarado saravia angel sebasthiam\\alvarado saravia angel sebasthiam\\solucion2t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37084EA5-035D-4F09-BC81-89F582AF9375}|Solucion2T3\\Solucion2T3.csproj|solutionrelative:solucion2t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7002FB5E-A2C8-421F-9D6C-697FE45E2466}|AlvaradoSaravia_01\\AlvaradoSaravia_01.csproj|C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\alvaradosaravia_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7002FB5E-A2C8-421F-9D6C-697FE45E2466}|AlvaradoSaravia_01\\AlvaradoSaravia_01.csproj|solutionrelative:alvaradosaravia_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,47 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion2T3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion2T3\\Program.cs",
               "RelativeDocumentMoniker": "Solucion2T3\\Program.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion2T3\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion2T3\\Program.cs",
               "RelativeToolTip": "Solucion2T3\\Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwDYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T15:32:57.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion1T3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion1T3\\Program.cs",
               "RelativeDocumentMoniker": "Solucion1T3\\Program.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion1T3\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\Solucion1T3\\Program.cs",
               "RelativeToolTip": "Solucion1T3\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwBoAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T13:39:50.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_02\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_02\\Program.cs",
               "RelativeDocumentMoniker": "AlvaradoSaravia_02\\Program.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_02\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_02\\Program.cs",
               "RelativeToolTip": "AlvaradoSaravia_02\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAiwCoAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T13:01:16.153Z",
               "EditorCaption": ""
@@ -75,14 +75,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_01\\Program.cs",
               "RelativeDocumentMoniker": "AlvaradoSaravia_01\\Program.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\FA\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_01\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\shiny-octo-adventure\\T3 Alvarado Saravia Angel Sebasthiam\\Alvarado Saravia Angel Sebasthiam\\AlvaradoSaravia_01\\Program.cs",
               "RelativeToolTip": "AlvaradoSaravia_01\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:36:10.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:36:10.72Z"
             }
           ]
         }

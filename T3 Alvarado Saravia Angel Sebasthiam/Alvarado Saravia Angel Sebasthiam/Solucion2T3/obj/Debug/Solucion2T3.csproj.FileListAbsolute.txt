@@ -6,3 +6,10 @@ C:\Users\Angel\Desktop\FA\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasth
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\obj\Debug\Solucion2T3.exe
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\obj\Debug\Solucion2T3.pdb
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\obj\Debug\Solucion2T3.exe.config
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\bin\Debug\Solucion2T3.exe.config
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\bin\Debug\Solucion2T3.exe
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\bin\Debug\Solucion2T3.pdb
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\obj\Debug\Solucion2T3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\obj\Debug\Solucion2T3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\obj\Debug\Solucion2T3.exe
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\T3 Alvarado Saravia Angel Sebasthiam\Alvarado Saravia Angel Sebasthiam\Solucion2T3\obj\Debug\Solucion2T3.pdb

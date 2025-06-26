@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\Semana 14 Teoría2\bin\Debug\Semana 14 Teoría2.exe.config
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\Semana 14 Teoría2\bin\Debug\Semana 14 Teoría2.exe
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\Semana 14 Teoría2\bin\Debug\Semana 14 Teoría2.pdb
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\Semana 14 Teoría2\obj\Debug\Semana 14 Teoría2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\Semana 14 Teoría2\obj\Debug\Semana 14 Teoría2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\Semana 14 Teoría2\obj\Debug\Semana 14 Teoría2.exe
+C:\Users\UPN\Desktop\faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\shiny-octo-adventure\Semana 14 Teoría2\obj\Debug\Semana 14 Teoría2.pdb
