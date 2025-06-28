@@ -24,7 +24,7 @@ namespace Semana_13_PRACTICA
                 Console.WriteLine("=== R E G I S T R A R  E S T U D I A N T E S ===");
 
                 Array.Resize(ref nombres, nombres.Length + 1);
-                Array.Resize(ref edad, nombres.Length + 1);
+                Array.Resize(ref edad, edad.Length + 1);
 
                 Console.WriteLine("* Ingrese sus nombres");
                 nombres[cantidad] = Console.ReadLine();

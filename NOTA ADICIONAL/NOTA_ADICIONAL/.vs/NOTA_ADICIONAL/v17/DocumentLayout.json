@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\NOTA ADICIONAL\\NOTA_ADICIONAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|c:\\users\\angel\\desktop\\nota adicional\\nota_adicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|c:\\users\\angel\\desktop\\nota adicional\\nota_adicional\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|solutionrelative:registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\NOTA ADICIONAL\\NOTA_ADICIONAL\\Registro.cs",
+              "RelativeDocumentMoniker": "Registro.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\NOTA ADICIONAL\\NOTA_ADICIONAL\\Registro.cs",
+              "RelativeToolTip": "Registro.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:38:22.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\NOTA ADICIONAL\\NOTA_ADICIONAL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\NOTA ADICIONAL\\NOTA_ADICIONAL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:30:05.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
