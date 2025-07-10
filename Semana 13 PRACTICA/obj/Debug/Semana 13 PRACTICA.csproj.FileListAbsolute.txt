@@ -20,3 +20,10 @@ C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Sema
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Semana 13 PRACTICA.csproj.CoreCompileInputs.cache
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Semana 13 PRACTICA.exe
 C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Semana 13 PRACTICA.pdb
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 13 PRACTICA\bin\Debug\Semana 13 PRACTICA.exe.config
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 13 PRACTICA\bin\Debug\Semana 13 PRACTICA.exe
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 13 PRACTICA\bin\Debug\Semana 13 PRACTICA.pdb
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Semana 13 PRACTICA.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Semana 13 PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Semana 13 PRACTICA.exe
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 13 PRACTICA\obj\Debug\Semana 13 PRACTICA.pdb

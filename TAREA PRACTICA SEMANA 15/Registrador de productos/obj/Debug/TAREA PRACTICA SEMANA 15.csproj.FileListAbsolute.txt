@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\TAREA PRACTICA SEMANA 15\Registrador de productos\bin\Debug\NOTA_ADICIONAL.exe.config
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\TAREA PRACTICA SEMANA 15\Registrador de productos\bin\Debug\NOTA_ADICIONAL.exe
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\TAREA PRACTICA SEMANA 15\Registrador de productos\bin\Debug\NOTA_ADICIONAL.pdb
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\TAREA PRACTICA SEMANA 15\Registrador de productos\obj\Debug\TAREA PRACTICA SEMANA 15.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\TAREA PRACTICA SEMANA 15\Registrador de productos\obj\Debug\TAREA PRACTICA SEMANA 15.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\TAREA PRACTICA SEMANA 15\Registrador de productos\obj\Debug\NOTA_ADICIONAL.exe
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\TAREA PRACTICA SEMANA 15\Registrador de productos\obj\Debug\NOTA_ADICIONAL.pdb

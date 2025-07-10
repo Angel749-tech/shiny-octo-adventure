@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\TAREA PRACTICA SEMANA 15\\NOTA_ADICIONAL\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|C:\\Users\\Angel\\Desktop\\TAREA PRACTICA SEMANA 15\\NOTA_ADICIONAL\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|TAREA PRACTICA SEMANA 15.csproj|c:\\users\\upn\\desktop\\fa semana 15\\shiny-octo-adventure\\tarea practica semana 15\\registrador de productos\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|TAREA PRACTICA SEMANA 15.csproj|solutionrelative:registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|c:\\users\\angel\\desktop\\tarea practica semana 15\\nota_adicional\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|solutionrelative:registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|TAREA PRACTICA SEMANA 15.csproj|c:\\users\\upn\\desktop\\fa semana 15\\shiny-octo-adventure\\tarea practica semana 15\\registrador de productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|TAREA PRACTICA SEMANA 15.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB5A70-1753-447B-94CA-8C63014D148C}|NOTA_ADICIONAL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:18:28.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Registro.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\TAREA PRACTICA SEMANA 15\\NOTA_ADICIONAL\\Registro.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\Registro.cs",
               "RelativeDocumentMoniker": "Registro.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\TAREA PRACTICA SEMANA 15\\NOTA_ADICIONAL\\Registro.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\Registro.cs",
               "RelativeToolTip": "Registro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T09:38:22.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\TAREA PRACTICA SEMANA 15\\NOTA_ADICIONAL\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Angel\\Desktop\\TAREA PRACTICA SEMANA 15\\NOTA_ADICIONAL\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA SEMANA 15\\shiny-octo-adventure\\TAREA PRACTICA SEMANA 15\\Registrador de productos\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T09:30:05.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T09:30:05.235Z"
             }
           ]
         }

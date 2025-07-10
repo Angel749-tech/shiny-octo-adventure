@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 15 EJEMPLO 1\bin\Debug\Semana 15 EJEMPLO 1.exe.config
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 15 EJEMPLO 1\bin\Debug\Semana 15 EJEMPLO 1.exe
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 15 EJEMPLO 1\bin\Debug\Semana 15 EJEMPLO 1.pdb
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 15 EJEMPLO 1\obj\Debug\Semana 15 EJEMPLO 1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 15 EJEMPLO 1\obj\Debug\Semana 15 EJEMPLO 1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 15 EJEMPLO 1\obj\Debug\Semana 15 EJEMPLO 1.exe
+C:\Users\UPN\Desktop\FA SEMANA 15\shiny-octo-adventure\Semana 15 EJEMPLO 1\obj\Debug\Semana 15 EJEMPLO 1.pdb

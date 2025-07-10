@@ -1,0 +1,8 @@
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\bin\Debug\AlvaradoSaravia_02.exe.config
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\bin\Debug\AlvaradoSaravia_02.exe
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\bin\Debug\AlvaradoSaravia_02.pdb
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\obj\Debug\AlvaradoSaravia_02.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\obj\Debug\AlvaradoSaravia_02.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\obj\Debug\AlvaradoSaravia_02.exe
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\obj\Debug\AlvaradoSaravia_02.pdb
+C:\Users\Angel\Desktop\FA\shiny-octo-adventure\Practica SEMANA 16\AngeSebasthiamAlvaradoSaravia\AlvaradoSaravia_02\obj\Debug\AlvaradoSaravia_02.exe.config
